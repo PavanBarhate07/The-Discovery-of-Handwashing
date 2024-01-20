@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Usage -
 1. Clone the repository:
-git clone https://github.com/your-username/Handwashing-Discovery.git
+git clone https://github.com/PavanBarhate07/Handwashing-Discovery.git
 
 Contributions
 Contributions are welcome! If you have suggestions, find bugs, or want to add features, feel free to open issues or pull requests. Let's collaborate to enhance the project!
